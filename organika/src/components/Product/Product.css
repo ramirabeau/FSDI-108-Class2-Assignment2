@@ -1,0 +1,20 @@
+.Product {
+    padding: 2rem;
+}
+
+.Product label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(155, 104, 45);
+}
+
+.prod-desc {
+    display: block;
+}
+
+.prod-btn {
+    margin: 5px 10px;
+}
+
+.prod-price {
+    color: blue;
+}
